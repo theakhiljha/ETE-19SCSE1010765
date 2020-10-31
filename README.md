@@ -1,2 +1,6 @@
-# ETE-19SCSE1010765
-A repository for Machine Learning lab exam of Galgotias University.
+# NAME- AKHIL KUMAR JHA
+# ADMISIION NO.- 19SCSE1010765
+# ENROLLMENT NO. - 19021012093
+# BATCH- CSE-5/ML-2
+# SEMESTER- 5
+# YEAR- 3
